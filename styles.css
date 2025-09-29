@@ -30,3 +30,36 @@ a:hover {
   border-color: navy;
   border: 20pxpx;
 }
+
+.content-para {
+  font-size: 16px;
+  line-height: 32px;
+  margin-left: 256px;
+  margin-right: 256px;
+}
+
+p {
+  margin: 40px auto;
+}
+
+h2 {
+  text-align: center;
+}
+
+ol {
+  font-size: 16px;
+  line-height: 32px;
+  margin-left: 512px;
+  margin-right: 256px;
+}
+
+ul {
+  font-size: 16px;
+  line-height: 32px;
+  margin-left: 512px;
+  margin-right: 256px;
+}
+
+img {
+  margin-left: 590px;
+}
